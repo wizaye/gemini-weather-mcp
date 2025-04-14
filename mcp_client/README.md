@@ -23,8 +23,8 @@ MCP Client is a bridge between Google's Gemini AI model and MCP-compatible serve
 
 1. Clone this repository:
 ```bash
-git clone <REPO_URL>
-cd mcp-client
+git clone https://github.com/wizaye/gemini-weather-mcp.git
+cd gemini-weather-mcp/mcp-client
 ```
 
 2. Create and activate a virtual environment:

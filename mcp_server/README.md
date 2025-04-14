@@ -21,8 +21,8 @@ MCP Server is a FastMCP implementation that provides weather data tools through 
 
 1. Clone this repository:
 ```bash
-git clone <REPO_URL>
-cd mcp-server
+git clone https://github.com/wizaye/gemini-weather-mcp.git
+cd gemini-weather-mcp/mcp-server
 ```
 
 2. Create and activate a virtual environment:

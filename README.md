@@ -1,4 +1,4 @@
-# MCP: Model Control Protocol Implementation
+# Gemini Weather MCP: Model Control Protocol Implementation Using Python and GEMINI API
 
 This repository contains a complete implementation of the Model Control Protocol (MCP), enabling AI assistants to access external tools and data sources. The project consists of two main components:
 
@@ -87,8 +87,8 @@ Retrieves a detailed weather forecast for a specific location.
 
 1. Clone this repository:
 ```bash
-git clone <REPO_URL>
-cd markdowndocs
+git clone https://github.com/wizaye/gemini-weather-mcp.git
+cd gemini-weather-mcp
 ```
 
 2. Set up the client:
